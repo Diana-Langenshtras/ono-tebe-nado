@@ -26,7 +26,7 @@ header {
   text-decoration: underline;
   text-underline-offset: 4px;
 }
-.header__link_active{
+.header__link_active {
   text-decoration: none;
 }
 .header__logo {
@@ -266,13 +266,11 @@ header {
   font-weight: 400;
   gap: 185px;
 }
-
 .footer__menu {
   padding-top: 1px;
   padding-left: 30px;
 }
 .footer__menu-list {
-  
   text-align: center;
 }
 .footer__menu-list-item {
